@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\9e4caae6928abed20e7c1e120b37e929\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1a32937b7401cdfe27d8a0fe12336171\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cbbaf10b48790a80ac8a36ccce482ba2\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\268e63b4e1eb9ebda9186369808aafae\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\7aa7854a32762e58c39572097fa674a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cf1936581943d8834ea0af4f3630c7c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1f47f20b38c948b3a2695d51937352a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\735413e6db7f0cc36394737490d6495a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\a765d4dc14d9e34ac898c05de74b3300\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\9e43708bcae3892f523dc1df7436cd26\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\f2e2f50b05e84febc5fcf3149823a25b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\016cb8dc294ce834e1e45e4c5b7ad33b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\fc9103fa1c90148d594c99ee4faad6e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\5b06ca0e00f6aa8b640b4a9e060920f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\ca48d294b8e23ed27d3e7f6c41250c63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\acb476f8bf2a5f0475d582f565e370bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\c4086ec7a7fdead445f1efcecd5eef1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\beebafad9dc088f331cbf4335e5dd099\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\efc78f00fe46bb965d2ce0c621434956\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\2d8a81c572edf9bb53a104861e839caf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\01a6903b71fd690ac8da0a09ead6720c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\bfe460240d281b3265c412c1841c8c28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\b0ebb5071deccf1f0753702d44fcfbab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\5c11dde5afe5d685a1f46c219f5940b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\3361e24cca5d60a2020a08de31708a69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\0f8b4d56d67d5b6cf974623fda01e6b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\305a0c7e564c6c19cabdeb374727cb8d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\188720485a7e6ad436da8d99e6ff2d5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\e9329110d4f7a70f5e6d55540c5e8afb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:4:5-83
+	android:name
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1a32937b7401cdfe27d8a0fe12336171\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1a32937b7401cdfe27d8a0fe12336171\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cbbaf10b48790a80ac8a36ccce482ba2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cbbaf10b48790a80ac8a36ccce482ba2\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\268e63b4e1eb9ebda9186369808aafae\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\268e63b4e1eb9ebda9186369808aafae\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\beebafad9dc088f331cbf4335e5dd099\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\beebafad9dc088f331cbf4335e5dd099\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\efc78f00fe46bb965d2ce0c621434956\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\efc78f00fe46bb965d2ce0c621434956\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\beebafad9dc088f331cbf4335e5dd099\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.sqlitelistview.MainActivity
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\9e4caae6928abed20e7c1e120b37e929\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\9e4caae6928abed20e7c1e120b37e929\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1a32937b7401cdfe27d8a0fe12336171\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1a32937b7401cdfe27d8a0fe12336171\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cbbaf10b48790a80ac8a36ccce482ba2\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cbbaf10b48790a80ac8a36ccce482ba2\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\268e63b4e1eb9ebda9186369808aafae\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\268e63b4e1eb9ebda9186369808aafae\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\7aa7854a32762e58c39572097fa674a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\7aa7854a32762e58c39572097fa674a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cf1936581943d8834ea0af4f3630c7c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\cf1936581943d8834ea0af4f3630c7c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1f47f20b38c948b3a2695d51937352a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\1f47f20b38c948b3a2695d51937352a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\735413e6db7f0cc36394737490d6495a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\735413e6db7f0cc36394737490d6495a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\a765d4dc14d9e34ac898c05de74b3300\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\a765d4dc14d9e34ac898c05de74b3300\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\9e43708bcae3892f523dc1df7436cd26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\9e43708bcae3892f523dc1df7436cd26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\f2e2f50b05e84febc5fcf3149823a25b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\f2e2f50b05e84febc5fcf3149823a25b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\016cb8dc294ce834e1e45e4c5b7ad33b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\016cb8dc294ce834e1e45e4c5b7ad33b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\fc9103fa1c90148d594c99ee4faad6e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\fc9103fa1c90148d594c99ee4faad6e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\5b06ca0e00f6aa8b640b4a9e060920f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\5b06ca0e00f6aa8b640b4a9e060920f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\ca48d294b8e23ed27d3e7f6c41250c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\ca48d294b8e23ed27d3e7f6c41250c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\acb476f8bf2a5f0475d582f565e370bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\acb476f8bf2a5f0475d582f565e370bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\c4086ec7a7fdead445f1efcecd5eef1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\c4086ec7a7fdead445f1efcecd5eef1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\beebafad9dc088f331cbf4335e5dd099\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\beebafad9dc088f331cbf4335e5dd099\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\efc78f00fe46bb965d2ce0c621434956\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\efc78f00fe46bb965d2ce0c621434956\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\2d8a81c572edf9bb53a104861e839caf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\2d8a81c572edf9bb53a104861e839caf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\01a6903b71fd690ac8da0a09ead6720c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\01a6903b71fd690ac8da0a09ead6720c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\bfe460240d281b3265c412c1841c8c28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\bfe460240d281b3265c412c1841c8c28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\b0ebb5071deccf1f0753702d44fcfbab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\b0ebb5071deccf1f0753702d44fcfbab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\5c11dde5afe5d685a1f46c219f5940b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\5c11dde5afe5d685a1f46c219f5940b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\3361e24cca5d60a2020a08de31708a69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\3361e24cca5d60a2020a08de31708a69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\0f8b4d56d67d5b6cf974623fda01e6b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\0f8b4d56d67d5b6cf974623fda01e6b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\305a0c7e564c6c19cabdeb374727cb8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\305a0c7e564c6c19cabdeb374727cb8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\188720485a7e6ad436da8d99e6ff2d5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\188720485a7e6ad436da8d99e6ff2d5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\e9329110d4f7a70f5e6d55540c5e8afb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ningu\.gradle\caches\transforms-2\files-2.1\e9329110d4f7a70f5e6d55540c5e8afb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ningu\Desktop\SQLiteListView\app\src\main\AndroidManifest.xml
